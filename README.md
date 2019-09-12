@@ -19,7 +19,7 @@ git clone https://github.com/gbains8172/Blackjack.git
 You need to have g++ installed in your environment or have a method of
 compiling and running C++ code on your terminal.
 
-g++ comes native on most \*nix systems but in case you dont have it simply run:
+g++ comes native on most \*nix systems but in case you don't have it simply run:
 
 ```
 sudo apt-get update
@@ -88,7 +88,7 @@ C++ is my go-to language for terminal based games. The control it provides and
 the lack of heavy overhead when compared to Java and other languages along with
 easy input/output through command line made it the best choice for this program.
 
-I feel that one of the most important things when building any product is clean, 
+I feel that one of the most important things when building any product is clean,
 object-oriented, and modular code that is well documented. For blackjack, it was
 the best decision to create objects for the game and keep the code as modular
 and reusable as possible so that anyone can pick up the project and keep building
